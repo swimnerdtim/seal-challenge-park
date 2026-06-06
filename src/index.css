@@ -7,16 +7,16 @@
 }
 
 :root {
-  --ocean: #00A3AD;
-  --ocean-deep: #007A82;
-  --ocean-light: #B4E1FA;
-  --coral: #FF6B6B;
-  --coral-dark: #E85A50;
-  --sunshine: #FFD93D;
-  --sand: #FAF8F5;
+  --navy-blue: #000080;
+  --navy-dark: #000066;
+  --navy-light: #1E3A8A;
+  --gold: #FFD700;
+  --gold-dark: #DAA520;
+  --gold-light: #FFF4CC;
+  --sand: #F5F5F0;
   --sand-dark: #E8E4DF;
   --white: #FFFFFF;
-  --slate: #64748B;
+  --slate: #475569;
   --slate-light: #94A3B8;
 }
 
