@@ -92,7 +92,9 @@ function App() {
 
           <div className="activity-grid">
             <div className="activity-card">
-              <div className="activity-image">🪢</div>
+              <div className="activity-image">
+                <div className="placeholder-image">Cargo Net Traverse</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>Cargo Net Traverse</h3>
@@ -107,7 +109,9 @@ function App() {
             </div>
 
             <div className="activity-card">
-              <div className="activity-image">🏃</div>
+              <div className="activity-image">
+                <div className="placeholder-image">Rope Swings</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>Rope Swing Stations</h3>
@@ -122,7 +126,9 @@ function App() {
             </div>
 
             <div className="activity-card">
-              <div className="activity-image">⚖️</div>
+              <div className="activity-image">
+                <div className="placeholder-image">Balance Beams</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>Balance Beams</h3>
@@ -137,7 +143,9 @@ function App() {
             </div>
 
             <div className="activity-card">
-              <div className="activity-image">🧗</div>
+              <div className="activity-image">
+                <div className="placeholder-image">Climbing Wall</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>Climbing Wall</h3>
@@ -152,7 +160,9 @@ function App() {
             </div>
 
             <div className="activity-card">
-              <div className="activity-image">🐵</div>
+              <div className="activity-image">
+                <div className="placeholder-image">Monkey Bars</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>Monkey Bars</h3>
@@ -167,7 +177,9 @@ function App() {
             </div>
 
             <div className="activity-card">
-              <div className="activity-image">⚡</div>
+              <div className="activity-image">
+                <div className="placeholder-image">The Gauntlet</div>
+              </div>
               <div className="activity-content">
                 <div className="activity-header">
                   <h3>The Gauntlet</h3>
